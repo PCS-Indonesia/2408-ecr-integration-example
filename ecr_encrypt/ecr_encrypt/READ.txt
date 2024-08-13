@@ -1,0 +1,4 @@
+How to install:
+1. Install JDK
+2. Install Intellij
+3. Open project in Intellij
