@@ -1,0 +1,14 @@
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\bin\Debug\net8.0\ECRLinkVB.exe
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\bin\Debug\net8.0\ECRLinkVB.deps.json
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\bin\Debug\net8.0\ECRLinkVB.runtimeconfig.json
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\bin\Debug\net8.0\ECRLinkVB.dll
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\bin\Debug\net8.0\ECRLinkVB.pdb
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.AssemblyInfoInputs.cache
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.AssemblyInfo.vb
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.vbproj.CoreCompileInputs.cache
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.dll
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\refint\ECRLinkVB.dll
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.pdb
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ECRLinkVB.genruntimeconfig.cache
+C:\Users\Aldi Megantara\source\repos\ECRLinkVB\ECRLinkVB\obj\Debug\net8.0\ref\ECRLinkVB.dll
