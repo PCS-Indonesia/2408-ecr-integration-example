@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ECRLinkVB"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02b4c89bf0016c812dba6542481e89032508f4e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ECRLinkVB"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ECRLinkVB"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

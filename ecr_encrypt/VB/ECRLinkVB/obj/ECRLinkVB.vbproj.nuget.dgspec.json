@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj": {}
+    "C:\\Users\\Aldi Megantara\\Documents\\GitHub\\2408-ecr-integration-example\\ecr_encrypt\\VB\\ECRLinkVB\\ECRLinkVB.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj": {
+    "C:\\Users\\Aldi Megantara\\Documents\\GitHub\\2408-ecr-integration-example\\ecr_encrypt\\VB\\ECRLinkVB\\ECRLinkVB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj",
+        "projectUniqueName": "C:\\Users\\Aldi Megantara\\Documents\\GitHub\\2408-ecr-integration-example\\ecr_encrypt\\VB\\ECRLinkVB\\ECRLinkVB.vbproj",
         "projectName": "ECRLinkVB",
-        "projectPath": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj",
+        "projectPath": "C:\\Users\\Aldi Megantara\\Documents\\GitHub\\2408-ecr-integration-example\\ecr_encrypt\\VB\\ECRLinkVB\\ECRLinkVB.vbproj",
         "packagesPath": "C:\\Users\\Aldi Megantara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\obj\\",
+        "outputPath": "C:\\Users\\Aldi Megantara\\Documents\\GitHub\\2408-ecr-integration-example\\ecr_encrypt\\VB\\ECRLinkVB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

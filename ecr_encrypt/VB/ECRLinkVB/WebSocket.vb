@@ -8,9 +8,9 @@ Imports System.Threading
 
 Module WebSocketClient
 
-    Public Function Main()
-
-        Dim certPath As String = "C:\Users\Aldi Megantara\Downloads\pcsindonesia.pfx"
+    Sub Main()
+        Console.WriteLine(System.Environment.CurrentDirectory)
+        Dim certPath As String = "../../../pcsindonesia.pfx"
         Dim certPassword As String = "tanyaale"
         Dim clientCertificate As New X509Certificate2(certPath, certPassword, X509KeyStorageFlags.MachineKeySet)
 
@@ -59,7 +59,7 @@ Module WebSocketClient
 
         Console.WriteLine("Press Enter to exit.")
         Console.ReadLine()
-    End Function
+    End Sub
 
     Private Function AcceptAllCertifications(sender As Object, certificate As X509Certificate, chain As X509Chain, sslPolicyErrors As SslPolicyErrors) As Boolean
         Return True

@@ -3,9 +3,9 @@ Imports InTheHand.Net.Bluetooth
 Imports System.Text
 Imports System.Threading
 
-Module BluetoothHost
+Class BluetoothHost
 
-    Sub Main()
+    Public Function Main()
         ' Define a unique UUID for the service
         Dim serviceUuid As New Guid("8ce255c0200a11e0ac640800200c9a66") ' SPP (Serial Port Profile)
         Dim listener As New BluetoothListener(serviceUuid)
@@ -38,6 +38,6 @@ Module BluetoothHost
         client.Close()
         listener.Stop()
         Console.WriteLine("Connection closed.")
-    End Sub
+    End Function
 
-End Module
+End Class
