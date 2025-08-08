@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "Runa1QSkD1s=",
+  "dgSpecHash": "ZixAsB1qg5w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Aldi Megantara\\.nuget\\packages\\32feet.net\\3.5.0\\32feet.net.3.5.0.nupkg.sha512",
+    "C:\\Users\\Aldi Megantara\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\Aldi Megantara\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\Aldi Megantara\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package '32feet.NET 3.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Aldi Megantara\\source\\repos\\ECRLinkVB\\ECRLinkVB\\ECRLinkVB.vbproj",
+      "libraryId": "32feet.NET",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
