@@ -1,0 +1,14 @@
+{
+    "name": "ryankenedy/php-wss-example",
+    "description": "WSS client example with certificate",
+    "require": {
+        "phrity/websocket": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Kenedy",
+            "email": "ryan@example.com"
+        }
+    ]
+}
